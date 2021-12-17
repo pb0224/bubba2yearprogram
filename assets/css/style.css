@@ -1,0 +1,53 @@
+body {
+    background: url(../images/food.jpg);
+}
+
+.navbar {
+ width: fit-content;   
+}
+
+.panel {
+    background-color: #C60C1B;
+    width: 100%;
+    height: auto;
+    color: white;
+    font-weight: bolder;
+}
+
+
+
+.panel-body {
+    text-align: center;
+}
+
+.card-body a {
+    word-break: break-all;
+}
+  
+.articleHeadline {
+    line-height: 1.5;
+}
+
+.jumbotron {
+    color: rgb(8, 1, 1);
+}
+
+.jumbotron > .text-center {
+    filter:none;
+
+}
+
+.list-group-item {
+    color:black;
+    background-color: white;
+    text-align: -webkit-center;
+}
+
+
+.custom-select {
+    width: auto;
+}
+
+.col-12 {
+    background-color: #ffffff;
+}
